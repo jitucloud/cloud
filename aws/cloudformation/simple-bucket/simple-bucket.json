@@ -4,6 +4,5 @@
         "esdc1":{
             "Type":"aws::s3::bucket"
         }
-    }
-    
+    }    
 }
