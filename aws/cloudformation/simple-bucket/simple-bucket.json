@@ -1,0 +1,9 @@
+{
+    "AWSTemplateFormatVersion" : "2010-09-09",
+    "Resources": {
+        "esdc1":{
+            "Type":"aws::s3::bucket"
+        }
+    }
+    
+}
